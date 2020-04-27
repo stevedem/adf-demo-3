@@ -1,6 +1,7 @@
 {
 	"name": "RawCSV",
 	"properties": {
+		"description": "This is my raw dataset",
 		"linkedServiceName": {
 			"referenceName": "ADLS",
 			"type": "LinkedServiceReference"
